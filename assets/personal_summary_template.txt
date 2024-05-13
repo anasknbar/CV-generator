@@ -1,0 +1,1 @@
+I'm {Name} and I have Bachelor's degree in {major} and Currently working as a {job_title}  -  at {company_name}.

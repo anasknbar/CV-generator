@@ -1,0 +1,40 @@
+==================================================================== 
+      {Name}                                                                           
+                                                    
+      Phone Number: {phone_number}                   
+      Email: {email}                                 
+      City: {city}                                   
+                                                     
+             
+==[ Education ]=====================================================                                     
+                                                    
+      University Name: {university_name}  
+      Major in: {major}              
+      Graduation Date: {graduation_date}              
+                                                    
+                
+==[ Experience ]====================================================         
+                                                    
+      Company Name: {company_name}  
+      Job Title: {job_title}                   
+      Summary of your key responsibilities:          
+      {you responsibilities}                         
+                                                    
+               
+==[ Skills ]========================================================                                  
+                                                    
+      - {skill-01}                        
+      - {skill-02}                                     
+      - {skill-03}                                     
+      - {skill-04}                                     
+                                         
+                                                    
+==[ Languages ]=====================================================         
+                                                                                                                                      
+      Arabic: {Arabic_language_level}                       
+      English: {English_language_level}                      
+
+                                  ──────▄▀▄─────▄▀▄
+                                  ─────▄█░░▀▀▀▀▀░░█▄
+                                  ─▄▄──█░░░░░░░░░░░█──▄▄
+                                  █▄▄█─█░░▀░░┬░░▀░░█─█▄▄█        
